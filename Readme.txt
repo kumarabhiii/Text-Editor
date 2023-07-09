@@ -10,3 +10,5 @@ How to Compile & Execute
 2) Type --->> "gradle build" in Text-Editor directory
 3) Type --->> "java -classpath build\libs\Text-Editor.jar;. com.kumar.abhiii.texteditor.Main"
 
+
+copyright by : kumarabhiii
